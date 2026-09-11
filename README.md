@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=Assalamu+Alaikum+Warahmatullahi+Wabarakatuh;B.Tech+Data+Science+Student;Aspiring+Data+Analyst+%7C+Data+Scientist;Turning+Data+into+Actionable+Insights"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 <!-- =========================
      HEADER
 ========================= -->
@@ -117,15 +125,11 @@ https://github.com/Nabil6786/Retail-Sales-Analysis-SQL
      LEARNING ROADMAP
 ========================= -->
 
-## 📚 Learning Roadmap
+<!-- Snake Game Repo View -->
 
-### Current → Next
-
-**SQL → Advanced SQL → Excel → Python → Pandas & NumPy → Data Visualization → Power BI → Statistics**
-
-### Long-Term
-
-**Advanced Data Analytics → Machine Learning → Data Science → Big Data → Cloud → Generative AI**
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 > My immediate goal is to become a strong Data Analytics candidate through practical learning and projects, before moving deeper into Data Science.
 
@@ -138,15 +142,13 @@ https://github.com/Nabil6786/Retail-Sales-Analysis-SQL
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nabil6786&show_icons=true&theme=github_dark&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nabil6786&theme=github-dark-blue&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Nabil6786&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&border_radius=10" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil6786&layout=compact&langs_count=8&theme=github_dark&hide_border=true&border_radius=10" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nabil6786&theme=github-dark-blue&hide_border=true&border_radius=10" height="170"/>
+</p>
 ---
 
 <!-- =========================
@@ -171,14 +173,13 @@ My long-term goal is to grow from:
 
 <p align="center">
 
-<a href="https://github.com/Nabil6786">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mohammad-nabil-bagwan-0086bb330/">
+<a href="https://www.linkedin.com/in/mohammad-nabil-bagwan-0086bb330/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://github.com/Nabil6786" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
