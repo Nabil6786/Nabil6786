@@ -1,3 +1,4 @@
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img
@@ -11,9 +12,8 @@
 ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0089FF&height=220&section=header&text=Mohammad%20Nabeel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20B.Tech%20Data%20Science&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Mohammad%20Nabeel&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20B.Tech%20Data%20Science&descAlignY=60&descColor=CCCCCC" width="100%"/>
 </p>
-
 <h2 align="center">Hi 👋 I'm Mohammad Nabeel</h2>
 
 <p align="center">
@@ -187,3 +187,9 @@ My long-term goal is to grow from:
 <p align="center">
   <i>Learning, building and growing — one dataset at a time. 📊</i>
 </p>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
+
