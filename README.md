@@ -84,21 +84,26 @@
      CURRENT FOCUS
 ========================= -->
 
-## 🎯 Current Focus
+## 🎯 Current Focus 
 
-```text
-Collect → Clean → Analyze → Visualize → Interpret → Make Decisions
-```
 
-Currently strengthening my skills in:
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20%26%20MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Advanced%20SQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
-* **SQL & MySQL**
-* **Advanced SQL and JOINs**
-* **Excel for Data Analysis**
-* **Python for Data Analysis**
-* **Power BI**
-* **Data Visualization**
-* **Real-world Data Analytics**
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Visualization-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Business%20Intelligence-111827?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <i>Building practical skills through hands-on projects and real-world datasets.</i>
+</p>
 
 ---
 
@@ -108,16 +113,41 @@ Currently strengthening my skills in:
 
 ## 🚀 Featured Project
 
-### 🛍️ Retail Sales Analysis — SQL
+### 🛍️ Retail Sales Analysis — SQL & MySQL
 
-A SQL-based data analytics project focused on analyzing retail sales data, answering business questions and extracting meaningful insights.
+> 📊 **Turning raw retail data into actionable business insights using SQL.**
 
-**Skills demonstrated:**
+A hands-on data analytics project focused on exploring retail sales data, answering real-world business questions, identifying sales patterns, and generating meaningful insights using **SQL and MySQL**.
 
-`SQL` `MySQL` `Data Analysis` `Business Insights`
+#### 🧠 Skills & Techniques
 
-🔗 **Project Repository:**
-https://github.com/Nabil6786/Retail-Sales-Analysis-SQL
+<p>
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Business%20Insights-111827?style=for-the-badge" />
+</p>
+
+#### 🔍 Project Workflow
+
+**📥 Collect → 🧹 Clean → 🔎 Analyze → 📊 Extract Insights → 💡 Support Decisions**
+
+#### 📌 Key Focus Areas
+
+* 📈 Sales performance analysis
+* 👥 Customer and product analysis
+* 💰 Revenue-based insights
+* 📅 Time-based sales analysis
+* 🔎 Business question solving using SQL
+* 🗄️ Database querying with MySQL
+
+### 🔗 Project Repository
+
+<p>
+  <a href="https://github.com/Nabil6786/Retail-Sales-Analysis-SQL">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -141,10 +171,7 @@ https://github.com/Nabil6786/Retail-Sales-Analysis-SQL
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nabil6786&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&border_radius=10" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil6786&layout=compact&langs_count=8&theme=github_dark&hide_border=true&border_radius=10" height="170"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nabil6786&theme=github-dark-blue&hide_border=true&border_radius=10" height="170"/>
@@ -157,39 +184,70 @@ https://github.com/Nabil6786/Retail-Sales-Analysis-SQL
 
 ## 🎯 Career Goal
 
-I am working toward a **Data Analyst / Data Analytics internship** where I can gain real-world experience, strengthen my analytical skills and contribute to solving practical business problems.
+<p align="center">
+  <b>🚀 Building a career in Data Analytics & Data Science</b>
+</p>
 
-My long-term goal is to grow from:
+<p align="center">
+  <code>🎓 B.Tech Data Science</code>
+  <b>→</b>
+  <code>📊 Data Analyst</code>
+  <b>→</b>
+  <code>📈 Data Analytics</code>
+  <b>→</b>
+  <code>🤖 Data Scientist</code>
+</p>
 
-**Data → Analytics → Visualization → Statistics → Machine Learning → Data Science**
+### 💼 Current Goal
+
+Seeking a **Data Analyst / Data Analytics internship** where I can gain real-world experience, strengthen my analytical skills, work with practical datasets, and contribute to solving meaningful business problems.
+
+### 🌱 Long-Term Vision
+
+My goal is to grow from:
+
+**🎓 Data Science Student → 📊 Data Analyst → 📈 Analytics Professional → 🤖 Data Scientist**
+
+<p align="center">
+  <i>Learning continuously • Building projects • Solving real-world problems • Turning data into insights</i>
+</p>
+
+
+**Data → Analytics → Visualization → Statistics → Machine Learning → Data Science**     
 
 ---
 
 <!-- =========================
      CONNECT
 ========================= -->
+                 
 
-## 🤝 Connect With Me
+<h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/mohammad-nabil-bagwan-0086bb330/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Nabil6786" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="https://github.com/Nabil6786">
+    <img src="https://img.shields.io/badge/GitHub-Mohammad%20Nabeel-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mohammad-nabil-bagwan-0086bb330/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Nabeel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
+
+<p align="center">
+  <i>Let's connect, collaborate, and turn data into meaningful insights.</i>
+</p>
+
 
 ---
 
-<p align="center">
-  <i>Learning, building and growing — one dataset at a time. 📊</i>
-</p>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
+
+<p align="center">
+  <i>Learning, building and growing — one dataset at a time. 📊</i>
+</p>
 
