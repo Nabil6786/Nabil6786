@@ -45,12 +45,43 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech student specializing in **Data Science**
-* 📊 Currently focused on becoming **internship-ready for Data Analyst / Data Analytics roles**
-* 🧠 Building a strong foundation in **SQL, Excel, Python and Power BI**
-* 🚀 Developing practical portfolio projects to apply what I learn
-* 🌱 Continuously improving my problem-solving and analytical skills
-* 🎯 Long-term goal: **Become a Data Scientist**
+<p align="center">
+  🎓 <b>B.Tech Data Science Student</b>
+  &nbsp; • &nbsp;
+  📊 <b>Aspiring Data Analyst</b>
+  &nbsp; • &nbsp;
+  🚀 <b>Future Data Scientist</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎯%20Data%20Analytics-000000?style=for-the-badge" alt="Data Analytics" />
+  <img src="https://img.shields.io/badge/🗄️%20SQL%20%26%20MySQL-111827?style=for-the-badge" alt="SQL and MySQL" />
+  <img src="https://img.shields.io/badge/📗%20Microsoft%20Excel-217346?style=for-the-badge" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/🐍%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/📊%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
+
+### 🔎 What I'm Focused On
+
+* 💼 Preparing for **Data Analyst / Data Analytics internships**
+* 🧠 Building practical skills in **SQL, Microsoft Excel, Python & Power BI**
+* 🚀 Developing **real-world data analytics projects**
+* 📈 Exploring **Data Analysis, Data Visualization & Business Intelligence**
+* 🌱 Improving my **analytical thinking & problem-solving skills**
+* 🎯 Working toward my long-term goal of becoming a **Data Scientist**
+
+<p align="center">
+  <code>📚 Learn</code>
+  →
+  <code>🛠️ Build</code>
+  →
+  <code>🔎 Analyze</code>
+  →
+  <code>📊 Visualize</code>
+  →
+  <code>💡 Improve</code>
+</p>
+
 
 ---
 
@@ -110,44 +141,33 @@
 <!-- =========================
      FEATURED PROJECT
 ========================= -->
-
 ## 🚀 Featured Project
 
 ### 🛍️ Retail Sales Analysis — SQL & MySQL
 
-> 📊 **Turning raw retail data into actionable business insights using SQL.**
+> 📊 **Turning retail data into actionable business insights.**
 
-A hands-on data analytics project focused on exploring retail sales data, answering real-world business questions, identifying sales patterns, and generating meaningful insights using **SQL and MySQL**.
+Analyzed sales data using **SQL & MySQL** to uncover sales trends, customer patterns, and revenue insights.
 
-#### 🧠 Skills & Techniques
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Business%20Insights-111827?style=for-the-badge" />
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-111827?style=for-the-badge" alt="Data Analysis" />
+  <img src="https://img.shields.io/badge/Business%20Insights-111827?style=for-the-badge" alt="Business Insights" />
 </p>
 
-#### 🔍 Project Workflow
+<p align="center">
+  📥 <b>Data</b> → 🔎 <b>Analysis</b> → 📊 <b>Insights</b> → 💡 <b>Decisions</b>
+</p>
 
-**📥 Collect → 🧹 Clean → 🔎 Analyze → 📊 Extract Insights → 💡 Support Decisions**
-
-#### 📌 Key Focus Areas
-
-* 📈 Sales performance analysis
-* 👥 Customer and product analysis
-* 💰 Revenue-based insights
-* 📅 Time-based sales analysis
-* 🔎 Business question solving using SQL
-* 🗄️ Database querying with MySQL
-
-### 🔗 Project Repository
-
-<p>
+<p align="center">
   <a href="https://github.com/Nabil6786/Retail-Sales-Analysis-SQL">
-    <img src="https://img.shields.io/badge/View%20Project-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔗%20View%20Project-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
   </a>
 </p>
+
+
+
 
 ---
 
